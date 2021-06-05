@@ -3,8 +3,8 @@ JAVA notepad
 
 
 Note :
-Please refere Database files and change database files according to your system and also create database in your system.
-System might not send OTP to your mobile number as I was using third party program to send OTP! Show see your console! OTP will also printed in console.
+Please refer to Database files and change database files according to your system and also create a database in your system.
+The system might not send OTP to your mobile number as I was using a third-party program to send OTP! Show see your console! OTP will also be printed in the console.Sorry for inconvience
 
 Output:
 
